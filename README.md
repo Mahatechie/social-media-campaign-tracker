@@ -9,11 +9,9 @@ Analyzed Facebook and Instagram ad campaign insights using Power BI to understan
 - Used slicers and filters for dynamic insights
 
 ## 📂 Files Included
-- 📄 Summary_Report.pdf – 1-page overview
 - 📊 Power BI Dashboard – exported version
 - 📈 Dashboard Screenshot
 - 📁 .pbix file (for Power BI)
-- 📋 Sample ad insights data (optional)
 
 ## 🛠 Tools & Tech
 - Power BI
